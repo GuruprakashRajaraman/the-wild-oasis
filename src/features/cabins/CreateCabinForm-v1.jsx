@@ -8,7 +8,7 @@ import FileInput from "../../ui/FileInput";
 import Textarea from "../../ui/Textarea";
 import Spinner from "../../ui/Spinner";
 import FormRow from "../../ui/FormRow";
-import { createCabin } from "../../services/apICabins";
+import { createCabin } from "../../services/apiCabins";
 
 
 
